@@ -29,15 +29,7 @@ Invoke-WebRequest -Uri https://codeload.github.com/fstecnologiainfo/Ubuntu-Setup
 
 2 - Acesse a pasta **/Ubuntu-Setup** e altere as permissões do arquivos *setup-(tipo-distro).sh* em arquivos executáveis.
 
-3 - Execute a instalação com os privilégios *root*, sendo **/Ubuntu-Setup/setup-serve.sh** para realizar as instalações e customização no Ubuntu Server, **/Ubuntu-Setup/setup-workstation.sh** para realizar as instalações e customização no Ubuntu Desktop e **/Ubuntu-Setup/setup-wsl2.sh** para realizar as instalações e customização no Microsoft WSL2 Ubuntu.
-
-***
-
-## **SERVER**
-
-***Instalação***
-
-Em desenvolvimento
+3 - Execute a instalação com os privilégios *root*, sendo **/Ubuntu-Setup/setup-workstation.sh** para realizar as instalações e customização no Ubuntu Desktop e **/Ubuntu-Setup/setup-wsl2.sh** para realizar as instalações e customização no Microsoft WSL2 Ubuntu.
 
 ***
 
